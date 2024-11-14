@@ -16,6 +16,7 @@ public class Prova_main {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Michela");
+        System.out.println("Michela è scema, tvb");
     }
     
 }
