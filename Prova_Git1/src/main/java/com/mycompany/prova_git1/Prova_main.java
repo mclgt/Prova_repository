@@ -18,6 +18,7 @@ public class Prova_main {
         System.out.println("Michela");
         System.out.println("Michela è scema, tvb");
         System.out.println("Jacopo è stato qui");
+        System.out.println("Help me");
     }
     
 }
